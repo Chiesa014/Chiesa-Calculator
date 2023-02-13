@@ -1,0 +1,47 @@
+
+
+input[type=button]{
+	background: brown;
+
+	font-weight: 900;
+	font-size: x-large;
+	margin-top: 50%;
+	border-radius: 4px;
+	height: 50px;
+	width: 50px;
+}
+
+input[type=text]{
+	width: 90%;
+	font-size: 20px;
+	border: 0px inset brown;
+	border-width: 3px;
+}
+input[type=submit]{
+	background: brown;
+
+	font-weight: 900;
+	font-size: x-large;
+	margin-top: 30%;
+	border-radius: 4px;
+	height: 50px;
+	width: 50px;
+}
+
+body{
+	background-image: url("../img/math.webp");
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+
+form { 
+margin: 0 auto; 
+padding: 5px;
+width:350px;
+height: 60vh;
+
+}
+a{
+	color: white;
+}
